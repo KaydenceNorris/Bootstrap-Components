@@ -1,2 +1,2 @@
 # My awesome bootstrap
-## Presented by kydence
+## Presented by kaydence
